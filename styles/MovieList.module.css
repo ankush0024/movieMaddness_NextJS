@@ -1,0 +1,8 @@
+.movieList{
+    display: grid;
+    gap: 1.566vw 0.783vw;
+    grid-template-columns: repeat(6,auto);
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}

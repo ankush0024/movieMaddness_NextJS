@@ -1,0 +1,16 @@
+.movie {
+    display: flex;
+    flex-direction: column;
+    width: 13.7vw;
+    text-decoration: inherit;
+    color: inherit;
+    height: 100%;
+    background-color: #2a2a2a;
+}
+.imageclass {
+  transition: 2s ease-in smooth 1s;
+}
+.imageclass:hover {
+    border: 1px solid #fff;
+    transform: scale(1.01);
+}
